@@ -12,3 +12,11 @@
   font-weight: normal;
   font-style: normal;
 }
+
+
+@font-face {
+  font-family: 'mahin';
+  src: url('https://cdn.jsdelivr.net/gh/itsmdibrahim/tenolent/mahin.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
